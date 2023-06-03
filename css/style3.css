@@ -1,0 +1,35 @@
+h1{
+    text-align: center;
+    color: #8b8b97;
+    font-size: 50px;
+}
+.main{
+    height: 600px;
+    width: 100%;
+    text-align: start;
+    font-weight: 900;
+    font-size: x-large;
+    border: 2px solid #f7efef;
+}
+.main span{
+    font-size: 25px;
+    color: #1f9696;
+}
+div{
+    display:inline-block;
+
+ }
+ div img{
+   border-radius:50% ;
+ }
+ .college{
+    padding-left: 420px;
+ }
+ body{
+    background-color: #eee5e5;
+ }
+ .heading2{
+    font-size: xx-large;
+    color: #56b4b8;
+ }
+  

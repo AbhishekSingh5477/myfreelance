@@ -1,0 +1,17 @@
+form{
+    margin: 5% 30% 0 30%;
+ background-color: #93e2d8;
+}
+body{
+   background-color: rgb(212, 206, 206);
+}
+  form input{
+    margin-bottom: 5px;
+    display: flex;
+    justify-items: center;
+    align-items: center;
+    background-color: #d3c3c3;
+  }
+  form textarea{
+    background-color: #d3c3c3;
+  }
